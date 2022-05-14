@@ -55,5 +55,5 @@ Give a ⭐️ if this project helped you!
 #
 
 <p align="center">
-   <b> &#60;/&#62; Feito com 💖 por <a href="https://www.linkedin.com/in/luanaferraz/">Luana Ferraz</a></b>
+   <b> Feito com 💖 por <a href="https://www.linkedin.com/in/luanaferraz/">Luana Ferraz</a></b>
 </p>
